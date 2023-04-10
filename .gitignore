@@ -1,0 +1,10 @@
+.idea
+gen
+api.Dockerfile
+db.Dockerfile
+docker-compose.yml
+entrypoint.sh
+api/go.mod
+api/go.sum
+go.mod
+go.sum
